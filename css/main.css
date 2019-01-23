@@ -25,3 +25,20 @@ body {
   display: block;
   width: 100%;
 }
+
+dl {
+  margin-left: 2.8em;
+  margin-right: 2.8em;
+}
+
+p {
+  border-top: 2px;
+}
+
+@media only screen and (min-width: 90em) {
+
+  .fix {
+    margin-top: 0;
+  }
+
+}
